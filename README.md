@@ -12,6 +12,7 @@ Argomenti trattati nel dettaglio:
 - Model-based classification 
 - Mixture of experts models. 
 - Tecniche di data visualization e di gestione dei dati (tidyverse).
+
 ## Spotify Recommendation System - Simple Version
 ### Spotify
 Spotify è un servizio di streaming musicale 🎧 disponibile via app e sito web che dà accesso a milioni di brani 🎼, podcast 🎤 e video 🎬 di artisti di tutto il mondo🌍. Una delle potenzialità di questo servizio è il suo recommendation system: sulla base degli ascolti e delle preferenze dell’utente🙋🏽‍♀️, infatti, è in grado di personalizzare la sua esperienza facendogli scoprire ogni giorno nuovi brani e contenuti che possano interessargli🤩.
